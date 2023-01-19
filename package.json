@@ -12,14 +12,10 @@
     "@aws-amplify/ui-react": "^4.3.3",
     "@next/font": "13.1.2",
     "aws-amplify": "^5.0.10",
-    "aws-amplify-react": "^5.1.43",
+    "aws-amplify-react": "^4.1.22",
     "next": "13.1.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4"
+    "react-dom": "18.2.0",
+    "tailwind": "^2.2.0"
   }
 }
